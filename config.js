@@ -13,7 +13,7 @@ const CONFIG = {
 	// General
 	name: 'Esteban',
 	imageBackground: false,
-	openInNewTab: true,
+	openInNewTab: false,
 	twelveHourFormat: false,
 
 	// Greetings
@@ -53,9 +53,9 @@ const CONFIG = {
 	firstButtonsContainer: [
 		{
 			id: '1',
-			name: 'Github',
-			icon: 'github',
-			link: 'https://github.com/banwwo',
+			name: 'WhatsApp',
+			icon: 'smartphone',
+			link: 'https://web.whatsapp.com',
 		},
 		{
 			id: '2',
@@ -66,20 +66,20 @@ const CONFIG = {
 		{
 			id: '3',
 			name: 'Notion',
-			icon: 'pencil',
+			icon: 'edit-3',
 			link: 'https://notion.so/',
 		},
 		{
 			id: '4',
 			name: 'Calendar',
-			icon: 'calendar',
+			icon: 'calendar-days',
 			link: 'https://calendar.google.com/calendar/r',
 		},
 		{
 			id: '5',
-			name: 'Reddit',
-			icon: 'glasses',
-			link: 'https://reddit.com',
+			name: 'Telegram',
+			icon: 'send',
+			link: 'https://web.telegram.org/',
 		},
 		{
 			id: '6',
@@ -157,24 +157,24 @@ const CONFIG = {
 			],
 		},
 		{
-			icon: 'coffee',
+			icon: 'bell-ring',
 			id: '2',
 			links: [
 				{
-					name: 'Linkedin',
-					link: 'https://www.linkedin.com',
+					name: 'Tomá agua',
+					link: '#',
 				},
 				{
-					name: 'Dribbble',
-					link: 'https://www.dribbble.com',
+					name: 'No te desveles',
+					link: '#',
 				},
 				{
-					name: 'Trello',
-					link: 'https://www.trello.com',
+					name: 'Corré 🏃🏻‍♂️',
+					link: '#',
 				},
 				{
-					name: 'Slack',
-					link: 'https://www.slack.com',
+					name: 'Comé sano',
+					link: '#',
 				},
 			],
 		},
