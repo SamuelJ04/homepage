@@ -139,20 +139,20 @@ const CONFIG = {
 			id: '1',
 			links: [
 				{
-					name: 'Inspirational',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Electrónica Chill',
+					link: 'https://music.youtube.com/playlist?list=PLpAW4ADUoK7RD0Z6oQaWpbIfVzHwyKPmP',
 				},
 				{
-					name: 'Classic',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Phonk & Electrónica',
+					link: 'https://music.youtube.com/playlist?list=PLpAW4ADUoK7Q-jCOW-KF0zy-F2JDOFRBY',
 				},
 				{
-					name: 'Oldies',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Indie & Pop',
+					link: 'https://music.youtube.com/playlist?list=PLpAW4ADUoK7SC410FJX8Ry_syncmzsNBZ',
 				},
 				{
-					name: 'Rock',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Inspiración',
+					link: 'https://music.youtube.com/playlist?list=PLpAW4ADUoK7T8LJpEbO2t-NHUKL5-g940',
 				},
 			],
 		},
