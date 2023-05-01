@@ -66,7 +66,7 @@ const CONFIG = {
 		{
 			id: '3',
 			name: 'Notion',
-			icon: 'trello',
+			icon: 'notion',
 			link: 'https://notion.so',
 		},
 		{
@@ -139,15 +139,15 @@ const CONFIG = {
 			id: '1',
 			links: [
 				{
-					name: 'Electrónica Chill',
+					name: 'Electrónica',
 					link: 'https://music.youtube.com/playlist?list=PLpAW4ADUoK7RD0Z6oQaWpbIfVzHwyKPmP',
 				},
 				{
-					name: 'Phonk & Electrónica',
+					name: 'Phonk',
 					link: 'https://music.youtube.com/playlist?list=PLpAW4ADUoK7Q-jCOW-KF0zy-F2JDOFRBY',
 				},
 				{
-					name: 'Indie & Pop',
+					name: 'Indie',
 					link: 'https://music.youtube.com/playlist?list=PLpAW4ADUoK7SC410FJX8Ry_syncmzsNBZ',
 				},
 				{
