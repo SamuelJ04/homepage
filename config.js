@@ -66,8 +66,8 @@ const CONFIG = {
 		{
 			id: '3',
 			name: 'Notion',
-			icon: 'notion',
-			link: 'https://notion.so',
+			icon: 'pencil',
+			link: 'https://notion.so/',
 		},
 		{
 			id: '4',
