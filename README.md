@@ -1,3 +1,5 @@
+GitHub Pages no funcionaba con un fork. :(
+
 ![image](assets/img/header.png)
 
 <br />
