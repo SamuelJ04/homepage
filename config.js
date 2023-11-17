@@ -162,11 +162,11 @@ const CONFIG = {
 			id: '2',
 			links: [
 				{
-					name: 'Tomá agua',
+					name: 'Dios te ama',
 					link: '#',
 				},
 				{
-					name: 'No te desveles',
+					name: 'joe',
 					link: '#',
 				},
 				{
