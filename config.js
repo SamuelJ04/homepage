@@ -73,7 +73,7 @@ const CONFIG = {
 			id: '4',
 			name: 'Retain',
 			icon: 'book-user',
-			link: 'https://calendar.google.com/calendar/r',
+			link: 'https://uark.retain.io/tutors/dashboard',
 		},
 		{
 			id: '5',
