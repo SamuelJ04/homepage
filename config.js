@@ -11,35 +11,35 @@ const CONFIG = {
 	// └─┘┴ ┴└─┘┴└─┘└─┘
 
 	// General
-	name: 'Esteban',
+	name: 'Samuel',
 	imageBackground: false,
 	openInNewTab: true,
 	twelveHourFormat: false,
 
 	// Greetings
-	greetingMorning: 'Buenos días,',
-	greetingAfternoon: 'Buenas tardes,',
-	greetingEvening: 'Buenas tardes,',
-	greetingNight: 'Es hora de dormir,',
+	greetingMorning: 'Good Morning,',
+	greetingAfternoon: 'Good Afternoon,',
+	greetingEvening: 'Good Evening,',
+	greetingNight: 'Bro go to bed,',
 
 	// Layout
 	bentoLayout: 'bento', // 'bento', 'lists', 'buttons'
 
 	// Weather
-	weatherKey: '41ad6c396193b7460bda74a1a0bded40', // Write here your API Key
+	weatherKey: '271b552418383e812afc7666acc61416', // Write here your API Key
 	weatherIcons: 'OneDark', // 'Onedark', 'Nord', 'Dark', 'White'
-	weatherUnit: 'C', // 'F', 'C'
-	language: 'es', // More languages in https://openweathermap.org/current#multi
+	weatherUnit: 'F', // 'F', 'C'
+	language: 'en', // More languages in https://openweathermap.org/current#multi
 
 	trackLocation: true, // If false or an error occurs, the app will use the lat/lon below
-	defaultLatitude: '-34.901112',
-	defaultLongitude: '-56.164532',
+	defaultLatitude: '36.057210',
+	defaultLongitude: '-94.186780',
 
 	// Autochange
-	autoChangeTheme: true,
+	autoChangeTheme: false,
 
 	// Autochange by OS
-	changeThemeByOS: true,
+	changeThemeByOS: false,
 
 	// Autochange by hour options (24hrs format, string must be in: hh:mm)
 	changeThemeByHour: false,
@@ -53,33 +53,33 @@ const CONFIG = {
 	firstButtonsContainer: [
 		{
 			id: '1',
-			name: 'WhatsApp',
-			icon: 'smartphone',
-			link: 'https://web.whatsapp.com',
+			name: 'Teams',
+			icon: 'users',
+			link: 'https://teams.microsoft.com/',
 		},
 		{
 			id: '2',
-			name: 'Mail',
+			name: 'Outlook',
 			icon: 'mail',
-			link: 'https://mail.protonmail.com/',
+			link: 'https://outlook.office.com/mail/',
 		},
 		{
 			id: '3',
-			name: 'Notion',
-			icon: 'edit-3',
-			link: 'https://notion.so/',
+			name: 'Office 365',
+			icon: 'keyboard',
+			link: 'https://www.office.com/?auth=2',
 		},
 		{
 			id: '4',
-			name: 'Calendar',
-			icon: 'calendar-days',
+			name: 'Retain',
+			icon: 'book-user',
 			link: 'https://calendar.google.com/calendar/r',
 		},
 		{
 			id: '5',
-			name: 'Telegram',
-			icon: 'send',
-			link: 'https://web.telegram.org/',
+			name: 'Github',
+			icon: 'github',
+			link: 'https://github.com/',
 		},
 		{
 			id: '6',
@@ -135,25 +135,26 @@ const CONFIG = {
 	// First Links Container
 	firstlistsContainer: [
 		{
-			icon: 'music',
+			icon: 'graduation-cap',
 			id: '1',
 			links: [
 				{
-					name: 'Electrónica',
-					link: 'https://music.youtube.com/playlist?list=PLpAW4ADUoK7RD0Z6oQaWpbIfVzHwyKPmP',
+					name: 'Blackboard',
+					link: 'https://learn.uark.edu/',
 				},
 				{
-					name: 'Phonk',
-					link: 'https://music.youtube.com/playlist?list=PLpAW4ADUoK7Q-jCOW-KF0zy-F2JDOFRBY',
+					name: 'UAConnect',
+					link: 'https://uaconnect.uark.edu/',
 				},
 				{
-					name: 'Indie',
-					link: 'https://music.youtube.com/playlist?list=PLpAW4ADUoK7SC410FJX8Ry_syncmzsNBZ',
+					name: 'CSCE 2014',
+					link: 'http://www.csce.uark.edu/~jgauch/2014/',
 				},
 				{
-					name: 'Inspiración',
-					link: 'https://music.youtube.com/playlist?list=PLpAW4ADUoK7T8LJpEbO2t-NHUKL5-g940',
+					name: 'MATH 3583 Project',
+					link: 'https://jiahuic.github.io/teaching/math-3583/project_10/',
 				},
+				
 			],
 		},
 		{
