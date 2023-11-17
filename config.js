@@ -166,15 +166,15 @@ const CONFIG = {
 					link: '#',
 				},
 				{
-					name: 'joe',
+					name: 'Finish Strong',
 					link: '#',
 				},
 				{
-					name: 'Corré 🏃🏻‍♂️',
+					name: '2 Timoteo 4',
 					link: '#',
 				},
 				{
-					name: 'Comé sano',
+					name: 'Joe',
 					link: '#',
 				},
 			],
