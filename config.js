@@ -31,7 +31,7 @@ const CONFIG = {
 	weatherUnit: 'F', // 'F', 'C'
 	language: 'en', // More languages in https://openweathermap.org/current#multi
 
-	trackLocation: true, // If false or an error occurs, the app will use the lat/lon below
+	trackLocation: false, // If false or an error occurs, the app will use the lat/lon below
 	defaultLatitude: '36.057210',
 	defaultLongitude: '-94.186780',
 
@@ -147,12 +147,12 @@ const CONFIG = {
 					link: 'https://uaconnect.uark.edu/',
 				},
 				{
-					name: 'CSCE 2014',
-					link: 'http://www.csce.uark.edu/~jgauch/2014/',
+					name: 'Learning Catalytics',
+					link: 'https://learningcatalytics.com/class_sessions',
 				},
 				{
-					name: 'MATH 3583 Project',
-					link: 'https://jiahuic.github.io/teaching/math-3583/project_10/',
+					name: 'Programming Reference',
+					link: 'https://www.w3schools.com/',
 				},
 				
 			],
@@ -166,7 +166,7 @@ const CONFIG = {
 					link: '#',
 				},
 				{
-					name: 'Finish Strong',
+					name: 'Be consistent',
 					link: '#',
 				},
 				{
