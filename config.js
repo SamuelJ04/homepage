@@ -151,8 +151,8 @@ const CONFIG = {
 					link: 'https://learningcatalytics.com/class_sessions',
 				},
 				{
-					name: 'Programming Reference',
-					link: 'https://www.w3schools.com/',
+					name: 'Labflow',
+					link: 'https://labflow.com/app/course/3110',
 				},
 				
 			],
