@@ -55,7 +55,7 @@ const CONFIG = {
 			id: '1',
 			name: 'Teams',
 			icon: 'users',
-			link: 'https://teams.microsoft.com/',
+			link: 'https://teams.microsoft.com/v2/',
 		},
 		{
 			id: '2',
