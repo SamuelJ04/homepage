@@ -71,9 +71,9 @@ const CONFIG = {
 		},
 		{
 			id: '4',
-			name: 'Retain',
-			icon: 'book-user',
-			link: 'https://uark.retain.io/tutors/dashboard',
+			name: 'Canva',
+			icon: 'school',
+			link: 'https://upaep.instructure.com/',
 		},
 		{
 			id: '5',
