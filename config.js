@@ -28,12 +28,12 @@ const CONFIG = {
 	// Weather
 	weatherKey: '271b552418383e812afc7666acc61416', // Write here your API Key
 	weatherIcons: 'OneDark', // 'Onedark', 'Nord', 'Dark', 'White'
-	weatherUnit: 'C', // 'F', 'C'
+	weatherUnit: 'F', // 'F', 'C'
 	language: 'es', // More languages in https://openweathermap.org/current#multi
 
 	trackLocation: false, // If false or an error occurs, the app will use the lat/lon below
-	defaultLatitude: '19.0437196',
-	defaultLongitude: '-98.1981486',
+	defaultLatitude: '36.098583',
+	defaultLongitude: '-94.175054',
 
 	// Autochange
 	autoChangeTheme: false,
@@ -162,11 +162,11 @@ const CONFIG = {
 			id: '2',
 			links: [
 				{
-					name: 'Dios te ama',
+					name: 'San Juan 14',
 					link: '#',
 				},
 				{
-					name: 'Be consistent',
+					name: 'Efiseos 5',
 					link: '#',
 				},
 				{
@@ -174,7 +174,7 @@ const CONFIG = {
 					link: '#',
 				},
 				{
-					name: 'Joe',
+					name: 'Galátas 2',
 					link: '#',
 				},
 			],
