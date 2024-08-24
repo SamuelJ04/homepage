@@ -25,6 +25,8 @@ function displayClock() {
 	document.getElementById('minutes').innerText = min + ampm;
 
 	document.getElementById('day').innerText = dd;
+	// spanish de
+	document.getElementById('de').innerText = ' de ';
 	document.getElementById('month').innerText = mm;
 
 	setTimeout(displayClock, 1000);

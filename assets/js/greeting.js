@@ -4,6 +4,7 @@
 // Function to set Greetings
 
 const today = new Date();
+console.log(today)
 const hour = today.getHours();
 const name = CONFIG.name;
 
