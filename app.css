@@ -12,7 +12,7 @@
   /* Font Size */
   --fg-primary: 12vh; /* Time and Greetings */
   --fg-secondary: 3vh; /* Greetings and Weather widger */
-  --fg-date: 8vh; /* Date */
+  --fg-date: 6vh; /* Date */
   --fg-list: 2vh; /* Links List */
   --icon: 3vh; /* Icon Size */
 
@@ -164,11 +164,15 @@ body {
 }
 
 #month,
+#de,
 #day {
+  display: inline;
+  margin-right: 12px;
   font-size: var(--fg-date);
   font-weight: bold;
   color: var(--fg);
 }
+
 
 #day {
   margin-left: 1.5rem;
