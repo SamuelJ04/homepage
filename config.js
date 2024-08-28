@@ -151,7 +151,7 @@ const CONFIG = {
 					link: 'https://uark-my.sharepoint.com/:x:/r/personal/samuelv_uark_edu/Documents/Assignments.xlsx?d=w695fc31b68984c15befea451b681f352&csf=1&web=1&e=Zqc7OH',
 				},
 				{
-					name: 'No haz clic acá',
+					name: 'No hagas clic acá',
 					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
 				},
 				
